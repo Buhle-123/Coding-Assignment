@@ -1,0 +1,14 @@
+h1{
+	text-align:center;
+}
+.Chicken{
+	border: 1px solid black;
+	background-color:blue;
+}
+.Beef{
+	background-color: pink;
+	border: 1px solid black;
+}
+h2{
+	background-color: yellow;
+}
